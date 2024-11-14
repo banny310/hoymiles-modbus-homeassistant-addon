@@ -30,7 +30,7 @@ After that data is refreshed every minute in Home Assistant and native Hoymiles 
 
 ## Installation
 
-1. Copy this repository url https://github.com/banny310/hoymiles-dtu-homeassistant-addon
+1. Copy this repository url https://github.com/banny310/hoymiles-modbus-homeassistant-addon/
 2. Add as new repository in Home Assistant add-on store
 3. Install add-on
 4. Set DTU ip address and port in config tab
